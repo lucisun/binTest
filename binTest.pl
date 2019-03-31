@@ -2,6 +2,7 @@
 use strict;
 use warnings;
 # tlucciano
+# testing pull
 
 my (@binArray);
 #set rand num range 0 - 255
