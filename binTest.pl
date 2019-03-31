@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+# tlucciano
 
 my (@binArray);
 #set rand num range 0 - 255
